@@ -44,7 +44,7 @@ package filehandling;
 
 	//writing a string in the above created file
 	    
-	    Writer.write("Iam suresh ");
+	    Writer.write("Iam hemanth ");
 	        
 	    Writer.close();
 	    System.out.println("Successfully written.");
@@ -71,7 +71,7 @@ package filehandling;
 	    e.printStackTrace();
 	}
 
-	String textToAppend = " Iam learning java programing";  //appending a string to the existing file
+	String textToAppend = " Iam working on javafsd";  //appending a string to the existing file
 	String fileName = "file handling practice project non assisted.txt";
 
 	try(FileWriter fw = new FileWriter(fileName, true);
