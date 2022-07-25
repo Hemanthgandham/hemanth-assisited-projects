@@ -1,3 +1,4 @@
+package constructer4;
 class ConstructorType {
   private String name;
   Main() {
