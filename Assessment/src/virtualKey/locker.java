@@ -168,7 +168,7 @@ public class locker {
         System.out.println("Welcome to LOCK ME :) ");
         System.out.println(" LockerMe.com");
         System.out.println("\n");
-        System.out.println("Develop by Hemanth");
+        System.out.println("Develop by Naga Lakshimi");
         System.out.println("\n");
         System.out.println("**********************");
         
